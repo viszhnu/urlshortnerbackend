@@ -8,10 +8,11 @@
   },
   "name": "urlbacknd",
   "version": "1.0.0",
-  "main": "node .",
+  "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
   },
   "author": "",
   "license": "ISC",
